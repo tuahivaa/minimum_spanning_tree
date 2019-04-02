@@ -1,0 +1,14 @@
+ABCDEFGHI
+A B 2
+A C 1
+B D 3
+B E 2
+C D 1
+D E 4
+D F 3
+C F 2
+E G 1
+F G 3
+G H 2
+G I 2
+H I 1

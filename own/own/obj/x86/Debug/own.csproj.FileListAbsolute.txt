@@ -1,0 +1,6 @@
+/Users/tuahivaatetonohiti/Projects/own/own/bin/Debug/own.exe
+/Users/tuahivaatetonohiti/Projects/own/own/bin/Debug/own.pdb
+/Users/tuahivaatetonohiti/Projects/own/own/obj/x86/Debug/own.csprojAssemblyReference.cache
+/Users/tuahivaatetonohiti/Projects/own/own/obj/x86/Debug/own.csproj.CoreCompileInputs.cache
+/Users/tuahivaatetonohiti/Projects/own/own/obj/x86/Debug/own.exe
+/Users/tuahivaatetonohiti/Projects/own/own/obj/x86/Debug/own.pdb

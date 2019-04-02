@@ -1,0 +1,17 @@
+ABCDEFGHIJ
+A B 4
+A D 9
+A C 1
+B C 7
+B E 11
+B G 3
+C E 6
+C F 8
+D F 2
+E F 12
+E G 15
+F H 5
+G H 10
+H I 8
+I J 5
+G J 4

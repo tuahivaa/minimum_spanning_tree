@@ -1,0 +1,15 @@
+ABCDEFGHI
+A B 4
+A H 8
+B H 11
+B C 8
+H I 7
+I G 6
+C D 7
+C F 4
+G F 2
+D F 14
+D E 9
+E F 10
+H G 1
+I C 2
